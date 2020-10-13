@@ -7,8 +7,9 @@
 [<img align="left" alt="Ligin Thomas CK | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Ligin_Thomas_CK)
 [<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ligin_thomas_ck/)
 [<img align="left" alt="Ligin Thomas CK | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />](mailto:ciyakhan515@gmail.com?)
-[<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/slack.svg" />](https://slack.com/ligin_thomas_ck)
-<img align="left" alt="Ligin Thomas CK | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/telegram.svg" />](https://telegram.org/#/Ciya_Khan)
+[<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/slack.svg" />](https://www.slack.com/ligin_thomas_ck)
+<img align="left" alt="Ligin Thomas CK | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/telegram.svg" />](https://t.me/Ciya_Khan)
+<img align="left" alt="Ligin Thomas CK | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/discord.svg" />](https://www.discord.com/)
 <br />
 
 ### Languages and Tools:
