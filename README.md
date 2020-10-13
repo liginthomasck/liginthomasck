@@ -104,11 +104,3 @@ Java                     1 repos             ░░░░░░░░░░░�
 PHP                      1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/CiyaKhan/CiyaKhan/blob/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
