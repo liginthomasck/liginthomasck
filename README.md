@@ -11,8 +11,8 @@
 [<img align="left" alt="Ligin Thomas CK | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/telegram.svg" />](https://www.t.me/Ligin_Thomas_CK)
 [<img align="left" alt="Ligin Thomas CK | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/whatsapp.svg" />](https://wa.me/qr/VVJYUUD2MJH2J1)
 
-<br />
-
+<br/>
+<br/>
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](CiyaKhan)
@@ -24,13 +24,13 @@
 [<img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](CiyaKhan)
 [<img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](CiyaKhan)
 
-<br />
-<br />
+<br/>
+<br/>
 
 <img align="left" alt="CiyaKhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CiyaKhan&show_icons=true&theme=radical"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CiyaKhan&layout=compact&theme=radical)](https://github.com/CiyaKhan/github-readme-stats)
-<br />
+<br/>
 
 <!--START_SECTION:waka-->
 
