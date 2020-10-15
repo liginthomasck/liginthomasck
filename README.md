@@ -11,6 +11,8 @@
 [<img align="left" alt="Ligin Thomas CK | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/telegram.svg" />](https://www.t.me/Ligin_Thomas_CK)
 [<img align="left" alt="Ligin Thomas CK | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/whatsapp.svg" />](https://wa.me/qr/VVJYUUD2MJH2J1)
 [<img align="left" alt="Ligin Thomas CK | Bitcoin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/bitcoin.svg" />](https://www.exchange.blockchain.com)
+[<img align="left" alt="Ligin Thomas CK | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/discord.svg" />](https://discord.gg/xExH6rj)
+
 <br/>
 <br/>
 
