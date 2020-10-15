@@ -9,7 +9,6 @@
 [<img align="left" alt="Ligin Thomas CK | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />](mailto:ciyakhan515@gmail.com?)
 [<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/slack.svg" />](https://zanckinternationals.slack.com)
 [<img align="left" alt="Ligin Thomas CK | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/telegram.svg" />](https://www.t.me/Ligin_Thomas_CK)
-[<img align="left" alt="Ligin Thomas CK | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/whatsapp.svg" />](https://wa.me/qr/VVJYUUD2MJH2J1)
 [<img align="left" alt="Ligin Thomas CK | Bitcoin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/bitcoin.svg" />](https://exchange.blockchain.com/trade/signup?referrerUsername=CiyaKhan)
 
 <br/>
