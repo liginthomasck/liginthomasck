@@ -36,10 +36,10 @@
 [<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />](CiyaKhan)
 [<img align="left" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />](CiyaKhan)
 [<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />](CiyaKhan)
-[<img align="left" alt="DS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />](CiyaKhan)
+[<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />](CiyaKhan)
 <br/>
 <br/>
-
+</br>
 <img align="left" alt="CiyaKhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CiyaKhan&show_icons=true&theme=radical"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CiyaKhan&layout=compact&theme=radical)](https://github.com/CiyaKhan/github-readme-stats)
