@@ -1,7 +1,5 @@
-<br/>
 
 ### Hi there, I'm CK... 👋
-<br/>
 
 ### Connect with me :
 
