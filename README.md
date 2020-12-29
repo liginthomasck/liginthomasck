@@ -8,7 +8,6 @@
 [<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/liginthomasck/)
 [<img align="left" alt="Ligin Thomas CK | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/kaggle.svg" />](https://www.kaggle.com/ciyakhan)
 [<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/slack.svg" />](https://zanckinternationals.slack.com)
-[<img align="left" alt="Ligin Thomas CK | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/telegram.svg" />](https://www.t.me/Ligin_Thomas_CK)
 <br/>
 <br/>
 
