@@ -10,6 +10,7 @@
 [<img align="left" alt="Ligin Thomas CK | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/pinterest.svg" />](https://in.pinterest.com/liginthomasck/)
 <br/>
 
+
 ### Connect with Zanck Internationals:
 
 [<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/slack.svg" />](https://zanckinternationals.slack.com)
