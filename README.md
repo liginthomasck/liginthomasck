@@ -10,6 +10,11 @@
 [<img align="left" alt="Ligin Thomas CK | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/pinterest.svg" />](https://in.pinterest.com/liginthomasck/)
 <br/>
 
+### Connect with Zanck...
+
+[<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/slack.svg" />](https://www.zanckinternationals.slack.com/ciyakhan)
+<br/>
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](CiyaKhan)
