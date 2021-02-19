@@ -31,9 +31,9 @@
 <br/>
 <br/>
 
-<img align="left" alt="CiyaKhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CiyaKhan&show_icons=true&theme=radical"/>
+<img align="left" alt="CK's Github Stats" src="https://github-readme-stats.vercel.app/api?username=liginthomasck&show_icons=true&theme=radical"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CiyaKhan&layout=compact&theme=radical)](https://github.com/CiyaKhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&layout=compact&theme=radical)](https://github.com/liginthomasck/github-readme-stats)
 <br/>
 
 <!--START_SECTION:waka-->
