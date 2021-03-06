@@ -1,7 +1,5 @@
 ## Hi there, I'm CK... 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Connect with me :
 
 [<img align="left" alt="Ligin Thomas CK | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" />](https://www.facebook.com/liginthomasck)
@@ -32,6 +30,8 @@
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />](CiyaKhan)
 <br/>
 <br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="left" alt="CK's Github Stats" src="https://github-readme-stats.vercel.app/api?username=liginthomasck&show_icons=true&theme=radical"/>
 
