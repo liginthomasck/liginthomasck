@@ -33,7 +33,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=10&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img align="left" alt="CK's Github Stats" src="https://github-readme-stats.vercel.app/api?username=liginthomasck&show_icons=true&theme=radical"/>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=liginthomasck&show_icons=true&theme=radical")](https://github.com/liginthomasck/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&layout=compact&theme=radical)](https://github.com/liginthomasck/github-readme-stats)
 <br/>
