@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=10&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=10&no-bg=true&column=7&width=800)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
 
