@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="left" alt="CK's Github Stats" src="https://github-readme-stats.vercel.app/api?username=liginthomasck&show_icons=true&theme=radical"/>
 
