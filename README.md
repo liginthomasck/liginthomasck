@@ -1,5 +1,7 @@
 ## Hi there, I'm CK... 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Connect with me :
 
 [<img align="left" alt="Ligin Thomas CK | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" />](https://www.facebook.com/liginthomasck)
