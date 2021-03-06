@@ -41,7 +41,6 @@
 <br/>
 <!--START_SECTION:waka-->
 
-<br/>
 <div>
   <img align="left" src="http://img.shields.io/badge/Profile%20Views-14-blue" />
   <br/>
