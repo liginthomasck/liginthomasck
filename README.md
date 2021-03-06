@@ -1,6 +1,6 @@
 ## Hi there, I'm CK... 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Connect with me :
 
