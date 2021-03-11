@@ -55,4 +55,4 @@
       <img src="https://blockchain.info/Resources/buttons/donate_64.png" />
   </div>
   
-<h1><a href="https://www.blockchain.com/btc/payment_request?address=1ERx2f6no1fXnDttvG3BmJsC4oUn6xDc7c&message=CK-Bitcoin-Wallet&amount=1"><img align="" alt="bitcoin" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" /> Donate 1BTC</a></h1>
+<h2><a href="https://www.blockchain.com/btc/payment_request?address=1ERx2f6no1fXnDttvG3BmJsC4oUn6xDc7c&message=CK-Bitcoin-Wallet&amount=1"><img align="" alt="bitcoin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" /> Donate 1BTC</a></h2>
