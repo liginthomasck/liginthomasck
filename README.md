@@ -57,7 +57,7 @@
 </div>
 <br/>
 
-<div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn" data-address="1ERx2f6no1fXnDttvG3BmJsC4oUn6xDc7c" data-shared="false">
+<div style="font-size:16px;margin:0 auto;width:300px">
   <div class="blockchain stage-begin">
       <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
   </div>
