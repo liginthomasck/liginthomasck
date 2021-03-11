@@ -1,4 +1,4 @@
-## Hi there, I'm CK... 👋
+<h1 align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/hello.gif" alt="hello-gif"><br>Hi there, I'm CK... 👋</h1>
 
 ### Connect with me :
 
