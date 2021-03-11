@@ -52,7 +52,5 @@
 <br/>
 
 <div style="font-size:16px;margin:0 auto;width:300px">
-  <div class="blockchain stage-begin">
-      <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
-  </div>
+      <img src="https://blockchain.info/Resources/buttons/donate_64.png" />
   </div>
