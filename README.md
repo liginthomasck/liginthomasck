@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/hello.gif" alt="hello-gif"><br>Hi there, I'm CK... 👋</h1>
 
-### Connect with me :
+## Connect with me :
 
 [<img align="left" alt="Ligin Thomas CK | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" />](https://www.facebook.com/liginthomasck)
 [<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />](https://www.linkedin.com/in/liginthomasck/)
@@ -16,7 +16,7 @@
 [<img align="left" alt="Ligin Thomas CK | bitcoin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/bitcoin.svg" />](https://www.blockchain.com/btc/payment_request?address=1ERx2f6no1fXnDttvG3BmJsC4oUn6xDc7c&message=CK-Bitcoin-Wallet&amount=1)
 <br/>
 
-#### Connect with Zanck Internationals :
+### Connect with Zanck Internationals :
 
 [<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/slack.svg" />](https://zanckinternationals.slack.com)
 [<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />](https://www.linkedin.com/company/zanck-internationals/)
