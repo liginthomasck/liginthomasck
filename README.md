@@ -54,20 +54,10 @@
   <br/>
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue" />
 </div>
-
+<br/>
 
 <div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn" data-address="1ERx2f6no1fXnDttvG3BmJsC4oUn6xDc7c" data-shared="false">
   <div class="blockchain stage-begin">
       <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
   </div>
-  <div class="blockchain stage-ready">
-      <p align="center">Please Donate To Bitcoin Address: <b>[[address]]</b></p>
-      <p align="center" class="qr-code"></p>
   </div>
-  <div class="blockchain stage-paid">
-      Donation of <b>[[value]] BTC</b> Received. Thank You.
-  </div>
-  <div class="blockchain stage-error">
-      <font color="red">[[error]]</font>
-  </div>
-</div>
