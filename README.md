@@ -16,7 +16,7 @@
 [<img align="left" alt="Ligin Thomas CK | bitcoin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/bitcoin.svg" />](https://www.blockchain.com/btc/payment_request?address=1ERx2f6no1fXnDttvG3BmJsC4oUn6xDc7c&message=CK-Bitcoin-Wallet&amount=1)
 <br/>
 
-### Connect with Zanck Internationals<img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/Handshake.gif" alt="Handshake.gif" width=45px>
+### Connect with Zanck Internationals<img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/Handshake.gif" alt="Handshake.gif" width=40px>
 
 [<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/slack.svg" />](https://zanckinternationals.slack.com)
 [<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />](https://www.linkedin.com/company/zanck-internationals/)
@@ -55,4 +55,4 @@
       <img src="https://blockchain.info/Resources/buttons/donate_64.png" />
   </div>
   
-<font size="35px">Click <a href="https://www.blockchain.com/btc/payment_request?address=1ERx2f6no1fXnDttvG3BmJsC4oUn6xDc7c&message=CK-Bitcoin-Wallet&amount=1"><img align="" alt="bitcoin" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" /></a> to donate 1BTC</font>
+Click <a href="https://www.blockchain.com/btc/payment_request?address=1ERx2f6no1fXnDttvG3BmJsC4oUn6xDc7c&message=CK-Bitcoin-Wallet&amount=1"><img align="" alt="bitcoin" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" /></a> to donate 1BTC
