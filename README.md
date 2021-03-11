@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/hello.gif" alt="hello-gif"><br>Hi there, I'm CK...<img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/waving.gif" alt="waving.gif" width=27px></h1>
 
-## Connect with me :
+## Connect with me <img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/Handshake.gif" alt="Handshake.gif">
 
 [<img align="left" alt="Ligin Thomas CK | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" />](https://www.facebook.com/liginthomasck)
 [<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />](https://www.linkedin.com/in/liginthomasck/)
