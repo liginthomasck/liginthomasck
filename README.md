@@ -39,21 +39,17 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=5&margin-h=5&no-bg=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
-<br/>
 
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=liginthomasck&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&layout=compact&theme=radical" />
 <br/>
-<br/>
 
 <!--START_SECTION:waka-->
 
-<div>
   <img align="left" src="http://img.shields.io/badge/Profile%20Views-14-blue" />
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue" />
-</div>
 <br/>
 
 <div style="font-size:16px;margin:0 auto;width:300px">
