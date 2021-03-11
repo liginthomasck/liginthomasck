@@ -13,7 +13,7 @@
 [<img align="left" alt="Ligin Thomas CK | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/reddit.svg" />](https://www.reddit.com/user/Ciya_Khan)
 [<img align="left" alt="Ligin Thomas CK | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/pinterest.svg" />](https://in.pinterest.com/liginthomasck/)
 [<img align="left" alt="Ligin Thomas CK | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/telegram.svg" />](https://t.me/liginthomasck)
-[<img align="left" alt="Ligin Thomas CK | bitcoin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/bitcoin.svg" />](https://blockchain.com/btc/payment_request?address=1GQGDte8P1BVZjpXVfYW5ArWNh2uAfs8UW&amount=1&message=Just&For&Fun&-&CK)
+[<img align="left" alt="Ligin Thomas CK | bitcoin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/bitcoin.svg" />](https://www.blockchain.com/btc/payment_request?address=1ERx2f6no1fXnDttvG3BmJsC4oUn6xDc7c&message=CK-Bitcoin-Wallet&amount=1)
 <br/>
 
 #### Connect with Zanck Internationals :
