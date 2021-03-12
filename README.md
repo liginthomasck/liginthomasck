@@ -43,7 +43,8 @@
 <br/>
 <!--START_SECTION:waka-->
 
-  <img align="left" src="http://img.shields.io/badge/Profile%20Views-14-blue" /><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue" />
+  <img align="left" src="http://img.shields.io/badge/Profile%20Views-14-blue" />
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue" />
 
 
 <div style="font-size:16px;margin:0 auto;width:300px">
