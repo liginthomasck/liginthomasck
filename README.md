@@ -6,13 +6,13 @@
 [<img align="left" alt="Ligin Thomas CK | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/liginthomasck?)
 [<img align="left" alt="Ligin Thomas CK | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/pinterest.svg" />](https://in.pinterest.com/liginthomasck/)
 [<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/liginthomasck/)
-[<img align="left" alt="Ligin Thomas CK | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/kaggle.svg" />](https://www.kaggle.com/ciyakhan)
-[<img align="left" alt="Ligin Thomas CK | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />](https://www.stackoverflow.com/users/15373890)
 <br/>
 <br/>
 [<img align="left" alt="Ligin Thomas CK | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/reddit.svg" />](https://www.reddit.com/user/Ciya_Khan)
 [<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />](https://www.linkedin.com/in/liginthomasck/)
 [<img align="left" alt="Ligin Thomas CK | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/telegram.svg" />](https://t.me/liginthomasck)
+[<img align="left" alt="Ligin Thomas CK | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/kaggle.svg" />](https://www.kaggle.com/ciyakhan)
+[<img align="left" alt="Ligin Thomas CK | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />](https://www.stackoverflow.com/users/15373890)
 <br/>
 
 ### Connect with Zanck Internationals<img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/Handshake.gif" alt="Handshake.gif" width=40px>
