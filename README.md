@@ -59,3 +59,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=Configure-XAMPP-To-Send-Mail)](https://github.com/liginthomasck/Configure-XAMPP-To-Send-Mail)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=Login-Page-Email-Verification-PHP)](https://github.com/liginthomasck/Login-Page-Email-Verification-PHP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=liginthomasck)](https://github.com/liginthomasck/liginthomasck)
+
+[![Ligin Thomas CK's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liginthomasck)](https://github.com/liginthomasck)
