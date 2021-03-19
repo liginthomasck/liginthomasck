@@ -36,7 +36,7 @@
 <br/>
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=5&margin-h=5&column=3&row=2&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=5&margin-h=5&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 <img width="300px" src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/lol.gif" alt="lol.gif" />
 
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=liginthomasck&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
