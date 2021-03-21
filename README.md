@@ -60,4 +60,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=Login-Page-Email-Verification-PHP&theme=react)](https://github.com/liginthomasck/Login-Page-Email-Verification-PHP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=liginthomasck&theme=react)](https://github.com/liginthomasck/liginthomasck)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liginthomasck)](https://github.com/anuraghazra/github-readme-stats)
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=liginthomasck" />
