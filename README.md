@@ -47,12 +47,5 @@
   <br/>
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue" />
 
-
-<div style="font-size:16px;margin:0 auto;width:300px">
-      <a href="https://www.blockchain.com/btc/payment_request?address=14qqnKsghm737SPBnzUvZEuEid74y1LbXG&message=CK-Bitcoin-Wallet&amount=1"><img src="https://blockchain.info/Resources/buttons/donate_64.png" /></a>
-  </div>
-
-<h1><a href="https://www.blockchain.com/btc/payment_request?address=14qqnKsghm737SPBnzUvZEuEid74y1LbXG&message=CK-Bitcoin-Wallet&amount=1"><img align="" alt="bitcoin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" /> Click to Donate 1BTC</a></h1>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=cars-databook&theme=react)](https://github.com/liginthomasck/cars-databook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=liginthomasck&theme=react)](https://github.com/liginthomasck/liginthomasck)
