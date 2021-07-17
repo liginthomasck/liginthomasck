@@ -20,8 +20,10 @@
 [<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />](https://www.linkedin.com/company/zanck-internationals/)
 [<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/zanck_internationals/)
 [<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Zanck-Internationals/)
+
+<a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discord.c99.nl/widget/theme-3/454847501787463680.png" alt="thatonecalculator"/></a>
+<a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discordapp.com/api/guilds/733856096963526667/embed.png?style=banner3" alt="discord"/></a>
 <br/>
-<a href="https://discord.gg/mG94DqX" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="discord.gg/mG94DqX"/></a> 
 
 ### Languages and Tools:
 
