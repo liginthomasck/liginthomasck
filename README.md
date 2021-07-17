@@ -40,9 +40,6 @@
 <br/>
 <br/>
 
-<p align="center"><img src="https://metrics.lecoq.io/liginthomasck/readme.md" alt="Github Metrics"></p>
-<br/>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=5&margin-h=5&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 <img src="https://imgur.com/ePLe9mA.gif" align="right" height=38% width=38%>
 
@@ -57,3 +54,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=cars-databook&theme=react)](https://github.com/liginthomasck/cars-databook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=liginthomasck&theme=react)](https://github.com/liginthomasck/liginthomasck)
+
+<p align="center"><img src="https://metrics.lecoq.io/liginthomasck/readme.md" alt="Github Metrics"></p>
+<br/>
