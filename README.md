@@ -1,4 +1,4 @@
-<h1 align="center"><br>Hi there, I'm CK...<img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/waving.gif" alt="waving.gif" width=27px></h1>
+<h1 align="center">Hi there, I'm CK...<img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/waving.gif" alt="waving.gif" width=27px></h1>
 
 ## Connect with me<img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/Handshake.gif" alt="Handshake.gif" width=45px>
 
