@@ -41,7 +41,7 @@
 <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=5&margin-h=5&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
-<img src="https://imgur.com/ePLe9mA.gif" align="right" height=38% width=38%>
+<img src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966" align="right" height=38% width=38%>
 
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=liginthomasck&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&layout=compact&theme=react" />
