@@ -57,4 +57,4 @@
 
 ## Long Metrics
 
-![Metrics](https://github.com/liginthomasck/liginthomasck/blob/main/metrics.plugins.isocalender.svg)
+![Metrics](https://github.com/liginthomasck/liginthomasck/blob/main/metrics.plugin.isocalendar.fullyear.svg)
