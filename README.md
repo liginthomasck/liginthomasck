@@ -55,7 +55,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=cars-databook&theme=react)](https://github.com/liginthomasck/cars-databook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=liginthomasck&theme=react)](https://github.com/liginthomasck/liginthomasck)
 
-<h2 align="center">Git Hub Stats</h2>
+<h2 align="center">Ligin Thomas CK's GitHub Metrics</h2>
   
 <p align="center"><img src="https://metrics.lecoq.io/liginthomasck/readme.md" alt="Github Metrics"></p>
   
