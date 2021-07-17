@@ -1,4 +1,4 @@
-- uses: liginthomasck/metrics@latest
-  with:
+- uses: lowlighter/metrics@latest
+  with: liginthomasck
     plugin_isocalendar: yes
     plugin_isocalendar_duration: full-year
