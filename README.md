@@ -31,8 +31,6 @@
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />](CiyaKhan)
 <br/>
 
-<p align="center"><img src="https://metrics.lecoq.io/liginthomasck/readme.md" alt="Github Metrics"></p>
-<br/>
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](CiyaKhan)
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](CiyaKhan)
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](CiyaKhan)
@@ -40,6 +38,9 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](CiyaKhan)
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />](CiyaKhan)
 <br/>
+<br/>
+
+<p align="center"><img src="https://metrics.lecoq.io/liginthomasck/readme.md" alt="Github Metrics"></p>
 <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=5&margin-h=5&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
