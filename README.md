@@ -58,3 +58,5 @@
 <h2 align="center">Ligin Thomas CK's GitHub Metrices</h2>
 
 <p><img src="https://metrics.lecoq.io/liginthomasck/readme.md" alt="Github Metrics"></p>
+
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
