@@ -57,4 +57,4 @@
 
 ## Long Metrics
 
-![Metrics](https://github.com/whippingdot/whippingdot/blob/main/github-metrics.svg)
+![Metrics](https://github.com/liginthomasck/liginthomasck/blob/main/github-metrics.svg)
