@@ -24,6 +24,7 @@
 <a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discord.c99.nl/widget/theme-3/454847501787463680.png" alt="thatonecalculator"/></a>
 <a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discordapp.com/api/guilds/733856096963526667/embed.png?style=banner3" alt="discord"/></a>
 <br/>
+<br/>
 
 ### 🛠️ Tools & 📙 Languages
 
