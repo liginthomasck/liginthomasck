@@ -1,3 +1,4 @@
+<p align="center"><img src="https://metrics.lecoq.io/liginthomasck/readme.md" alt="Github Metrics"></p>
 <h1 align="center">Hi there, I'm CK...<img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/waving.gif" alt="waving.gif" width=27px></h1>
 
 ## Connect with me<img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/Handshake.gif" alt="Handshake.gif" width=45px>
@@ -56,7 +57,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=liginthomasck&theme=react)](https://github.com/liginthomasck/liginthomasck)
 
 <h2 align="center">Ligin Thomas CK's GitHub Metrices</h2>
-
-<p align="center"><img src="https://metrics.lecoq.io/liginthomasck/readme.md" alt="Github Metrics"></p>
   
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
