@@ -1,0 +1,4 @@
+- uses: liginthomasck/metrics@latest
+  with:
+    plugin_isocalendar: yes
+    plugin_isocalendar_duration: full-year
