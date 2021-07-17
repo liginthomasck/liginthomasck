@@ -55,6 +55,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=cars-databook&theme=react)](https://github.com/liginthomasck/cars-databook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=liginthomasck&theme=react)](https://github.com/liginthomasck/liginthomasck)
 
-## Long Metrics
-
-![Metrics](https://github.com/liginthomasck/liginthomasck/blob/main/metrics.plugin.isocalendar.fullyear.svg)
