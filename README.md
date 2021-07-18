@@ -44,7 +44,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liginthomasck&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liginthomasck&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liginthomasck&theme=github_dark&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liginthomasck&theme=github_dark&layout="compact")
 <br/>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=liginthomasck&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&layout=compact&theme=github_dark" />
