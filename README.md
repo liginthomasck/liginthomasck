@@ -64,7 +64,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center">Ligin Thomas CK's GitHub Metrics</h3>
+<h2 align="center">Ligin Thomas CK's GitHub Metrics</h2>
 
 <p align="center"><img src="https://metrics.lecoq.io/liginthomasck" alt="Github Metrics"></p>
 
