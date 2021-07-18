@@ -46,8 +46,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&layout=compact&theme=react" />
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liginthomasck&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liginthomasck&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liginthomasck&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liginthomasck&theme=github_dark)
 <br/>
 <!--START_SECTION:waka-->
 
