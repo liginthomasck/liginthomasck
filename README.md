@@ -3,7 +3,7 @@
 ### Connect with me<img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/Handshake.gif" alt="Handshake.gif" width=40px>
 
 [<img align="left" alt="Ligin Thomas CK | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />](https://www.facebook.com/liginthomasck)
-[<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/liginthomasck/)
+[<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/instagram.png" />](https://www.instagram.com/liginthomasck/)
 [<img align="left" alt="Ligin Thomas CK | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/liginthomasck?)
 [<img align="left" alt="Ligin Thomas CK | Pinterest" width="22px" src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/pinterest.png" />](https://in.pinterest.com/liginthomasck/)
 <br/>
@@ -17,8 +17,8 @@
 ### Join Zanck Internationals<img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/Handshake.gif" alt="Handshake.gif" width=40px>
 
 [<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Zanck-Internationals/)
-[<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />](https://www.linkedin.com/company/zanck-internationals/)
-[<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/zanck_internationals/)
+[<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/company/zanck-internationals/)
+[<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/instagram.png" />](https://www.instagram.com/zanck_internationals/)
 [<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/slack.svg" />](https://zanckinternationals.slack.com)
 <br/>
 
