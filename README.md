@@ -22,8 +22,6 @@
 [<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/slack.svg" />](https://zanckinternationals.slack.com)
 <br/>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ### Tools & Languages
 
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />](CiyaKhan)
@@ -40,6 +38,8 @@
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />](CiyaKhan)
 <br/>
 <br/>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=5&margin-h=5&column=3&row=2&theme=darkhub)](CiyaKhan)
 <img width="350px" src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966">
