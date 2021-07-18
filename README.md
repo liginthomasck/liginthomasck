@@ -38,7 +38,6 @@
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />](CiyaKhan)
 <br/>
 <br/>
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=5&margin-h=5&column=3&row=2&theme=darkhub)](CiyaKhan)
