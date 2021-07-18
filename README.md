@@ -11,7 +11,7 @@
 [<img align="left" alt="Ligin Thomas CK | Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />](https://www.reddit.com/user/Ciya_Khan)
 [<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/liginthomasck/)
 [<img align="left" alt="Ligin Thomas CK | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/telegram.svg" />](https://t.me/liginthomasck)
-[<img align="left" alt="Ligin Thomas CK | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/kaggle.svg" />](https://www.kaggle.com/ciyakhan)
+[<img align="left" alt="Ligin Thomas CK | Kaggle" width="22px" src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/kaggle.png" />](https://www.kaggle.com/ciyakhan)
 <br/>
 
 ### Join Zanck Internationals<img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/Handshake.gif" alt="Handshake.gif" width=40px>
