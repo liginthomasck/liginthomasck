@@ -56,7 +56,6 @@
   <br/>
 
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue" />
-  <br/>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=cars-databook&theme=github_dark)](https://github.com/liginthomasck/cars-databook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=liginthomasck&theme=github_dark)](https://github.com/liginthomasck/liginthomasck)
