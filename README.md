@@ -51,10 +51,8 @@
 <br/>
 <br/>
 <!--START_SECTION:waka-->
-
   <img align="left" src="http://img.shields.io/badge/Profile%20Views-14-blue" />
   <br/>
-  
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue" />
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=cars-databook&theme=github_dark)](https://github.com/liginthomasck/cars-databook)
