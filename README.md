@@ -36,7 +36,7 @@
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fb/fb-original.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook.svg" />](CiyaKhan)
 <br/>
 <br/>
 
