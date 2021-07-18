@@ -56,5 +56,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=liginthomasck&theme=react)](https://github.com/liginthomasck/liginthomasck)
 
 <h2 align="center">Ligin Thomas CK's GitHub Metrices</h2>
-
-<p><img src="https://metrics.lecoq.io/liginthomasck" alt="Github Metrics"></p>
