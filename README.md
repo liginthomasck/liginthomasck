@@ -49,9 +49,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liginthomasck&theme=github_dark)
 <br/>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=liginthomasck&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&layout=compact&theme=github_dark" />
 <br/>
@@ -65,7 +62,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=cars-databook&theme=github_dark)](https://github.com/liginthomasck/cars-databook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=liginthomasck&theme=github_dark)](https://github.com/liginthomasck/liginthomasck)
 
-<h1 align="center">Ligin Thomas CK's GitHub Metrics</h1>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3 align="center">Ligin Thomas CK's GitHub Metrics</h3>
 
 <p align="center"><img src="https://metrics.lecoq.io/liginthomasck" alt="Github Metrics"></p>
 
