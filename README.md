@@ -57,4 +57,4 @@
 
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 
-<p align="center"><img src="https://metrics.lecoq.io/liginthomasck" alt="Github Metrics"></p>
+<p><img src="https://metrics.lecoq.io/liginthomasck" alt="Github Metrics"></p>
