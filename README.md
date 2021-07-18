@@ -46,8 +46,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&layout=compact&theme=react" />
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liginthomasck&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liginthomasck&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liginthomasck&theme=react)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liginthomasck&theme=react)
+<br/>
 <!--START_SECTION:waka-->
 
   <img align="left" src="http://img.shields.io/badge/Profile%20Views-14-blue" />
