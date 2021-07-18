@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&layout=compact&theme=react" />
 <br/>
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liginthomasck&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liginthomasck&theme=dracula)
 <!--START_SECTION:waka-->
 
