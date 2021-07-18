@@ -29,6 +29,7 @@
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg" />](CiyaKhan)
 <br/>
 
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](CiyaKhan)
