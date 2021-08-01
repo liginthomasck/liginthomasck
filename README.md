@@ -66,5 +66,6 @@
 
 <h3 align="center">Ligin Thomas CK's GitHub Metrics</h3>
 
-<p><img src="https://metrics.lecoq.io/liginthomasck/readme.md" alt="Github Metrics"></p>
+<p><img src="https://camo.githubusercontent.com/935916c7a2da126c02cadfea4951739a74e66a615c16c19cd819e9e4ede93739/68747470733a2f2f6d6574726963732e6c65636f712e696f2f6c6967696e74686f6d6173636b2f726561646d652e6d64" alt="Github Metrics"></p>
+<!--<p><img src="https://metrics.lecoq.io/liginthomasck/readme.md" alt="Github Metrics"></p>-->
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
