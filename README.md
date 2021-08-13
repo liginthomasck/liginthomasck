@@ -12,7 +12,6 @@
 [<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/liginthomasck/)
 [<img align="left" alt="Ligin Thomas CK | telegram" width="22px" src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/teleg.png" />](https://t.me/liginthomasck)
 [<img align="left" alt="Ligin Thomas CK | Kaggle" width="22px" src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/kaggle.png" />](https://www.kaggle.com/ciyakhan)
-<img width="350px" src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966">
 <br/>
 
 ### Join Zanck Internationals<img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/Handshake.gif" alt="Handshake.gif" width=40px>
@@ -40,7 +39,7 @@
 <br/>
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=5&margin-h=5&column=3&row=2&theme=darkhub)](CiyaKhan)
+[![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=5&margin-h=5&column=3&row=2&theme=github_dark)](CiyaKhan)
 <img width="350px" src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966">
 <!--
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
