@@ -59,8 +59,8 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=cars-databook&theme=github_dark)](https://github.com/liginthomasck/cars-databook)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=liginthomasck&theme=github_dark)](https://github.com/liginthomasck/liginthomasck)-->
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=liginthomasck&theme=github_dark)](https://github.com/liginthomasck/liginthomasck)
+-->
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">Ligin Thomas CK's GitHub Metrics</h3>
