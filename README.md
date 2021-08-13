@@ -50,7 +50,7 @@
 <br/>
 
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=liginthomasck&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&layout=compact&theme=github_dark" />
 <br/>
 
 <!--START_SECTION:waka-->
