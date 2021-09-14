@@ -39,6 +39,8 @@
 <br/>
 <br/>
 
+### 🏆 GitHub Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=5&margin-h=5&column=7&row=1)](CiyaKhan)
 <!--<img width="350px" src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966">
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -63,7 +65,8 @@
 -->
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center">My GitHub Metrics</h3>
+### &#x1f4c8; GitHub Stats
+<!--<h3 align="center">My GitHub Metrics</h3>-->
 <!--<p><img src="https://metrics.lecoq.io/liginthomasck/" alt="Github Metrics"></p>-->
 
 ![Metrics](https://metrics.lecoq.io/liginthomasck?template=classic&repositories.forks=true&base.metadata=0&isocalendar=1&languages=1&introduction=1&stars=1&people=1&gists=1&followup=1&lines=1&activity=1&achievements=1&discussions=1&notable=1&repositories=1&tweets=1&repositories=100&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=true&tweets.attachments=true&tweets.limit=5&tweets.user=.user.twitter&config.timezone=Asia%2FCalcutta)
