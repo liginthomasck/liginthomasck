@@ -9,7 +9,7 @@
 <br/>
 <br/>
 [<img align="left" alt="Ligin Thomas CK | Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />](https://www.reddit.com/user/Ciya_Khan)
-[<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/liginthomasck/)
+[<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/linkedin.svg" />](https://www.linkedin.com/in/liginthomasck/)
 [<img align="left" alt="Ligin Thomas CK | telegram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/teleg.png" />](https://t.me/liginthomasck)
 [<img align="left" alt="Ligin Thomas CK | Kaggle" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/kaggle.png" />](https://www.kaggle.com/ciyakhan)
 <br/>
