@@ -5,7 +5,7 @@
 [<img align="left" alt="Ligin Thomas CK | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />](https://www.facebook.com/liginthomasck)
 [<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://github.com/liginthomasck/social-media-icons/blob/main/assests/instagram.png" />](https://www.instagram.com/liginthomasck)
 [<img align="left" alt="Ligin Thomas CK | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/liginthomasck?)
-[<img align="left" alt="Ligin Thomas CK | Pinterest" width="22px" src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/pinterest.png" />](https://in.pinterest.com/liginthomasck/)
+[<img align="left" alt="Ligin Thomas CK | Pinterest" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/pinterest.png" />](https://in.pinterest.com/liginthomasck/)
 <br/>
 <br/>
 [<img align="left" alt="Ligin Thomas CK | Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />](https://www.reddit.com/user/Ciya_Khan)
