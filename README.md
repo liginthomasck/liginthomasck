@@ -21,7 +21,7 @@
 [<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/instagram.png" />](https://www.instagram.com/zanck_internationals/)
 [<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/slack.png" />](https://zanckinternationals.slack.com)
 <br/>
-
+<br/>
 
 ### 🛠️ Tools & Languages
 
