@@ -3,7 +3,7 @@
 ### Connect with me<img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/Handshake.gif" alt="Handshake.gif" width=40px>
 
 [<img align="left" alt="Ligin Thomas CK | Facebook" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/facebook.svg" />](https://www.facebook.com/liginthomasck)
-[<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/instagram.png" />](https://www.instagram.com/liginthomasck)
+[<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/instagram.svg" />](https://www.instagram.com/liginthomasck)
 [<img align="left" alt="Ligin Thomas CK | Twitter" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/twitter.svg" />](https://twitter.com/liginthomasck?)
 [<img align="left" alt="Ligin Thomas CK | Pinterest" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/pinterest.png" />](https://in.pinterest.com/liginthomasck/)
 <br/>
@@ -19,7 +19,7 @@
 
 [<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/git.svg" />](https://github.com/Zanck-Internationals/)
 [<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/linkedin.svg" />](https://www.linkedin.com/company/zanck-internationals/)
-[<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/instagram.png" />](https://www.instagram.com/zanck_internationals/)
+[<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/instagram.svg" />](https://www.instagram.com/zanck.in/)
 [<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/slack.png" />](https://zanckinternationals.slack.com)
 <br/>
 <br/>
