@@ -14,13 +14,14 @@
 [<img align="left" alt="Ligin Thomas CK | Kaggle" width="22px" src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/kaggle.png" />](https://www.kaggle.com/ciyakhan)
 <br/>
 
-### 🔗 🤝🏻 Join Zanck Internationals<img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/Handshake.gif" alt="Handshake.gif" width=40px>
+### Join Zanck Internationals<img src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/Handshake.gif" alt="Handshake.gif" width=40px>
 
 [<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/git.png" />](https://github.com/Zanck-Internationals/)
 [<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/company/zanck-internationals/)
 [<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/instagram.png" />](https://www.instagram.com/zanck_internationals/)
 [<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://github.com/liginthomasck/liginthomasck/blob/main/assets/slack.png" />](https://zanckinternationals.slack.com)
 <br/>
+
 
 ### 🛠️ Tools & Languages
 
