@@ -3,7 +3,7 @@
 ### Connect with me<img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/Handshake.gif" alt="Handshake.gif" width=40px>
 
 [<img align="left" alt="Ligin Thomas CK | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />](https://www.facebook.com/liginthomasck)
-[<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assests/instagram.png" />](https://www.instagram.com/liginthomasck)
+[<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/instagram.png" />](https://www.instagram.com/liginthomasck)
 [<img align="left" alt="Ligin Thomas CK | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/liginthomasck?)
 [<img align="left" alt="Ligin Thomas CK | Pinterest" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/pinterest.png" />](https://in.pinterest.com/liginthomasck/)
 <br/>
