@@ -26,18 +26,18 @@
 
 ### 🛠️ Tools & Languages
 
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/vscode.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/linux.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/jupyter.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/matlab.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/tensorflow.svg" />](CiyaKhan)
 <br/>
 
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/cplusplus.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/javascript.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/java.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/python.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/r.svg" />](CiyaKhan)
 <br/>
 <br/>
 
