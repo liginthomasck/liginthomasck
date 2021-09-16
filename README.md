@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-### Join Zanck Internationals..
+### Zanck Internationals..
 
 [<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/git.svg" />](https://github.com/Zanck-Internationals/)
 [<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/linkedin.svg" />](https://www.linkedin.com/company/zanck-internationals/)
