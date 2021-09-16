@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm CK...<img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/waving.gif" alt="waving.gif" width=27px></h2>
 
-### Connect with me<img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/Handshake.gif" alt="Handshake.gif" width=40px>&nbsp;&nbsp;&nbsp;Join Zanck Internationals<img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/Handshake.gif" alt="Handshake.gif" width=40px>
+### Connect with me<img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/Handshake.gif" alt="Handshake.gif" width=40px>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Join Zanck Internationals<img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/Handshake.gif" alt="Handshake.gif" width=40px>
 
 [<img align="left" alt="Ligin Thomas CK | Facebook" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/facebook.svg" />](https://www.facebook.com/liginthomasck)
 [<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/instagram.svg" />](https://www.instagram.com/liginthomasck)
