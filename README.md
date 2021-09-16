@@ -39,11 +39,11 @@
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/r.svg" />](CiyaKhan)
 <br/>
 <br/>
-
+<!--
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=5&margin-h=5&column=7&row=1)](CiyaKhan)
-<!--<img width="350px" src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966">
+<img width="350px" src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966">
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liginthomasck&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liginthomasck&theme=github_dark)
