@@ -13,7 +13,7 @@
 <br/>
 <br/>
 -->
-### 🛠️ Tools & Languages
+### Tools & Languages
 
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/vscode.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/linux.svg" />](CiyaKhan)
