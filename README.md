@@ -3,7 +3,7 @@
 ### 🚀 Github Stats
 
 ![Metrics](https://metrics.lecoq.io/liginthomasck?template=classic&repositories.forks=true&base.metadata=0&languages=1&lines=1&discussions=1&tweets=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=true&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&tweets.attachments=true&tweets.limit=3&tweets.user=.user.twitter&config.timezone=Asia%2FCalcutta)
-<!--<img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/Handshake.gif" alt="Handshake.gif" width=40px>-->
+<!--<img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/Handshake.gif" alt="Handshake.gif" width=40px>
 ### Zanck Internationals..
 
 [<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/git.svg" />](https://github.com/Zanck-Internationals/)
@@ -12,7 +12,7 @@
 [<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/slack.svg" />](https://zanckinternationals.slack.com)
 <br/>
 <br/>
-
+-->
 ### Let's Connect..
 
 [<img align="left" alt="Ligin Thomas CK | Facebook" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/facebook.svg" />](https://www.facebook.com/liginthomasck)
