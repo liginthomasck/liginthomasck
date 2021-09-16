@@ -3,8 +3,23 @@
 ### 🚀 Github Stats
 
 ![Metrics](https://metrics.lecoq.io/liginthomasck?template=classic&repositories.forks=true&base.metadata=0&languages=1&lines=1&discussions=1&tweets=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=true&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&tweets.attachments=true&tweets.limit=3&tweets.user=.user.twitter&config.timezone=Asia%2FCalcutta)
-
 <!--<img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/Handshake.gif" alt="Handshake.gif" width=40px>-->
+### Tools & Languages
+
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/vscode.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/linux.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/jupyter.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/matlab.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/tensorflow.svg" />](CiyaKhan)
+<br/>
+
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/cplusplus.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/javascript.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/java.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/python.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/r.svg" />](CiyaKhan)
+<br/>
+<br/>
 ### Let's Connect..
 
 [<img align="left" alt="Ligin Thomas CK | Facebook" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/facebook.svg" />](https://www.facebook.com/liginthomasck)
@@ -29,26 +44,10 @@
 <br/>
 <br/>
 
-### Tools & Languages
-
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/vscode.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/linux.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/jupyter.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/matlab.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/tensorflow.svg" />](CiyaKhan)
-<br/>
-
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/cplusplus.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/javascript.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/java.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/python.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/r.svg" />](CiyaKhan)
-<br/>
-<!--
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=5&margin-h=5&column=7&row=1)](CiyaKhan)
-<img width="350px" src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966">
+<!--<img width="350px" src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966">
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liginthomasck&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liginthomasck&theme=github_dark)
@@ -69,7 +68,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=liginthomasck&theme=github_dark)](https://github.com/liginthomasck/liginthomasck)
 ![Metrics](https://metrics.lecoq.io/liginthomasck?)https://github.com/lowlighter/metrics
--->
-<br/>
+
 <!--![Metrics](https://metrics.lecoq.io/liginthomasck?template=classic&repositories.forks=true&base.metadata=0&isocalendar=1&languages=1&introduction=1&stars=1&people=1&gists=1&followup=1&lines=1&activity=1&achievements=1&discussions=1&notable=1&repositories=1&tweets=1&stackoverflow=1&repositories=100&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&licenses.ratio=yes&licenses.legal=yes&isocalendar.duration=half-year&languages.limit=8&languages.sections=recently-used,most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=1000&languages.recent.days=365&introduction.title=true&languages.details=bytes-size,percentage&habits.from=1000&habits.days=30&habits.facts=yes&habits.charts=yes&habits.trim=yes&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=true&repositories.featured=liginthomasck%2FCrops-India-Book%2C%20liginthomasck%2FAccident-Rate-Book%2C%20liginthomasck%2FCars-databook%2C%20liginthomasck%2FLogin-Page-Email-Verification-PHP%2C%20liginthomasck%2Feaoll-ecomm-workflow&tweets.attachments=true&tweets.limit=4&tweets.user=.user.twitter&stackoverflow.user=15373890&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=3&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FCalcutta)-->
 <h3 align="center">Show some ❤ by <img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/star.gif" height=25px width=25px> some repositories .</h3>
