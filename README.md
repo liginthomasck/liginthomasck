@@ -20,6 +20,16 @@
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/r.svg" />](CiyaKhan)
 <br/>
 <br/>
+
+### Join Zanck Internationals..
+
+[<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/git.svg" />](https://github.com/Zanck-Internationals/)
+[<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/linkedin.svg" />](https://www.linkedin.com/company/zanck-internationals/)
+[<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/instagram.svg" />](https://www.instagram.com/zanck.in/)
+[<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/slack.svg" />](https://zanckinternationals.slack.com)
+<br/>
+<br/>
+
 ### Let's Connect..
 
 [<img align="left" alt="Ligin Thomas CK | Facebook" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/facebook.svg" />](https://www.facebook.com/liginthomasck)
@@ -30,15 +40,6 @@
 [<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/linkedin.svg" />](https://www.linkedin.com/in/liginthomasck/)
 [<img align="left" alt="Ligin Thomas CK | telegram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/telegram.svg" />](https://t.me/liginthomasck)
 [<img align="left" alt="Ligin Thomas CK | Kaggle" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/kaggle.svg" />](https://www.kaggle.com/ciyakhan)
-<br/>
-<br/>
-
-### Join Zanck Internationals..
-
-[<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/git.svg" />](https://github.com/Zanck-Internationals/)
-[<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/linkedin.svg" />](https://www.linkedin.com/company/zanck-internationals/)
-[<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/instagram.svg" />](https://www.instagram.com/zanck.in/)
-[<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/slack.svg" />](https://zanckinternationals.slack.com)
 <br/>
 <br/>
 
