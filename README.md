@@ -30,17 +30,20 @@
 ### Tools & Languages
 
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/vscode.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/html.svg" />](CiyaKhan)
+
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/jupyter.svg" />](CiyaKhan)
 
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/tensorflow.svg" />](CiyaKhan)
 <br/>
 
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/cplusplus.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/html.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/php.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/javascript.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/java.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/python.svg" />](CiyaKhan)
-
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/mysql.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/mongodb.svg" />](CiyaKhan)
 <br/>
 <br/>
 
