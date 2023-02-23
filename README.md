@@ -53,15 +53,7 @@
 ![CK's github stats](https://github-stats-alpha.vercel.app/api?username=liginthomasck&cc=000&tc=fff&ic=fff&bc=000)
 ![GitHub Streak](https://streak-stats.demolab.com?user=liginthomasck&theme=highcontrast&hide_border=true)
 ![GitHub Langs]("https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&langs_count=8&theme=blue-green&hide_border=true&layout=compact")
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanishbarnwal&show_icons=true&hide_b
-<!--<img width="350px" src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966">
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liginthomasck&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liginthomasck&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liginthomasck&theme=github_dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&layout=compact&theme=flat")
-<br/>
--->
+
 <br/>
 
 <!--START_SECTION:waka
