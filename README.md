@@ -59,10 +59,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liginthomasck&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liginthomasck&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liginthomasck&theme=github_dark)
-![](https://github-readme-stats.vercel.app/api?username=liginthomasck&show_icons=true&theme=flat&count_private=true&include_all_commits=true")
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&layout=compact&theme=flat")
 <br/>
-
+-->
 <br/>
 
 <!--START_SECTION:waka
