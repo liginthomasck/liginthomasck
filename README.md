@@ -5,7 +5,7 @@
 
 ![Metrics](https://metrics.lecoq.io/liginthomasck?template=classic&base.metadata=0&languages=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=byte-size%2C%20percentage&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&tweets=false&tweets.user=liginthomasck&tweets.attachments=true&tweets.limit=3&config.timezone=Asia%2FCalcutta)
 
-### Let's Connect.. <img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/Handshake.gif" alt="Handshake.gif" width=40px>
+### <img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/Handshake.gif" alt="Handshake.gif" width=40px> Let's Connect..
 
 [<img align="left" alt="Ligin Thomas CK | Facebook" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/facebook.svg" />](https://www.facebook.com/liginthomasck)
 [<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/instagram.svg" />](https://www.instagram.com/liginthomasck)
@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-### Tools & Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=40px >
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20px > Tools & Languages
 
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/vscode.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/jupyter.svg" />](CiyaKhan)
