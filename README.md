@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1F700&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+CK...;+A+Caffeine+addicted+Scientist...;Do+U+wanna+Play+with+Information...;Follow%2C+Fork%2C+Star+%26+Connect...+;Let's+Build+Feking+Data+World...)](https://git.io/typing-svg)
 <!--
 <h2 align="center">Hi there, I'm CK...<img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/waving.gif" alt="waving.gif" height=25px width=27px></h2>
--->
-![Metrics](https://metrics.lecoq.io/liginthomasck?template=classic&repositories.forks=true&base.metadata=0&languages=1&lines=1&discussions=1&tweets=1&languages.limit=10&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&languages.details=percentage&tweets.attachments=true&tweets.limit=3&tweets.user=.user.twitter&config.timezone=Asia%2FCalcutta)
+-->![Metrics](https://metrics.lecoq.io/liginthomasck?template=classic&base.metadata=0&languages=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=50&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=9&tweets=false&tweets.user=liginthomasck&tweets.attachments=true&tweets.limit=3&config.timezone=Asia%2FCalcutta)
 <!--<img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/Handshake.gif" alt="Handshake.gif" width=40px>
 ### Zanck Internationals..
 
