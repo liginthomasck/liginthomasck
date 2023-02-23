@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1F700&width=435&lines=Hi+there%2C+I'm+CK...;Welcome+Data+Fekers...;Do+U+wanna+Play+with+Information...;Follow%2C+Fork%2C+Star%2C+Connect...+;Let's+Build+Feking+Data+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1F700&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+CK...;Welcome+Data+Fekers...;Do+U+wanna+Play+with+Information...;Follow%2C+Fork%2C+Star+%26+Connect...+;Let's+Build+Feking+Data+World...)](https://git.io/typing-svg)
 <!--
 <h2 align="center">Hi there, I'm CK...<img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/waving.gif" alt="waving.gif" height=25px width=27px></h2>
 -->
