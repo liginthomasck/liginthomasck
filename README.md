@@ -52,8 +52,14 @@
 ![CK's github stats](https://github-stats-alpha.vercel.app/api?username=liginthomasck&cc=000&tc=fff&ic=fff&bc=000)
 ![GitHub Streak](https://streak-stats.demolab.com?user=liginthomasck&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=liginthomasck&show_icons=true&theme=flat&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&layout=compact&theme=flat" />
+START_SECTION:waka
+  <img align="left" src="http://img.shields.io/badge/Profile%20Views-14-blue" />
+  <br/>
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue" />
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=cars-databook&theme=github_dark)](https://github.com/liginthomasck/cars-databook)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=liginthomasck&theme=github_dark)](https://github.com/liginthomasck/liginthomasck)
 
 <!--<img width="350px" src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966">
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -61,7 +67,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liginthomasck&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liginthomasck&theme=github_dark)
 <br/>
-
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=liginthomasck&show_icons=true&theme=flat&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&layout=compact&theme=flat" />
 
 <br/>
 
