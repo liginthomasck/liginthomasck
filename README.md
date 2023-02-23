@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20px > Tools & Languages
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=25px >  Tools & Languages
 
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/vscode.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/jupyter.svg" />](CiyaKhan)
@@ -48,7 +48,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=5&margin-h=5&column=7&row=1)](CiyaKhan)
 <br/>
 
-### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="20px"> GitHub Stats
+### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px">  GitHub Stats
 
 ![CK's github stats](https://github-stats-alpha.vercel.app/api?username=liginthomasck&cc=000&tc=fff&ic=fff&bc=000)
 ![GitHub Streak](https://streak-stats.demolab.com?user=liginthomasck&theme=highcontrast&hide_border=true)
