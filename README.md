@@ -75,4 +75,4 @@
   <img src="https://profile-counter.glitch.me/liginthomasck/count.svg" />
 </p>
 
-<h3 align="center">Show some ❤ by <img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/star.gif" height=25px width=25px> some repositories .</h3>
+<h3 align="center">Show some ❤ by <img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/star.gif" height=25px width=25px> some repositories! <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></h3>
