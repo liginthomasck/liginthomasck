@@ -48,15 +48,19 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&margin-w=5&margin-h=5&column=7&row=1)](CiyaKhan)
 <br/>
 
-### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="30px">  GitHub Stats
+### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px">  GitHub Stats
 
-![CK's github stats](https://github-stats-alpha.vercel.app/api?username=liginthomasck&cc=000&tc=fff&ic=fff&bc=000)
-![GitHub Streak](https://streak-stats.demolab.com?user=liginthomasck&theme=highcontrast&hide_border=true)
+![CK's github stats](https://github-stats-alpha.vercel.app/api?username=liginthomasck&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=liginthomasck&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&langs_count=8&cc=000&tc=fff&ic=fff&bc=000&layout=compact&theme=black)
 
 <br/>
 
 <!--START_SECTION:waka
+
+![CK's github stats](https://github-stats-alpha.vercel.app/api?username=liginthomasck&cc=000&tc=fff&ic=fff&bc=000)
+![GitHub Streak](https://streak-stats.demolab.com?user=liginthomasck&theme=highcontrast&hide_border=true)
+
   <img align="left" src="http://img.shields.io/badge/Profile%20Views-14-blue" />
   <br/>
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue" />
