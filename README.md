@@ -40,7 +40,7 @@
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/javascript.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/java.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/python.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/r.svg" />](CiyaKhan)
+
 <br/>
 <br/>
 
