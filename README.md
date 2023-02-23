@@ -50,7 +50,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px">  GitHub Stats
 
-![CK's github stats](https://github-stats-alpha.vercel.app/api?username=liginthomasck&show_icons=false&count_private=true&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
+![CK's github stats](https://github-stats-alpha.vercel.app/api?username=liginthomasck&cc=000&tc=fff&ic=fff&bc=000)
 ![GitHub Streak](https://streak-stats.demolab.com?user=liginthomasck&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&langs_count=8&cc=000&tc=fff&ic=fff&bc=000&layout=compact&theme=black)
 
@@ -58,7 +58,6 @@
 
 <!--START_SECTION:waka
 
-![CK's github stats](https://github-stats-alpha.vercel.app/api?username=liginthomasck&cc=000&tc=fff&ic=fff&bc=000)
 ![GitHub Streak](https://streak-stats.demolab.com?user=liginthomasck&theme=highcontrast&hide_border=true)
 
   <img align="left" src="http://img.shields.io/badge/Profile%20Views-14-blue" />
