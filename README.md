@@ -30,16 +30,16 @@
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/tensorflow.svg" />](CiyaKhan)
 <br/>
 
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/cplusplus.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://techstack-generator.vercel.app/cpp-icon.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/html.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/javascript.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/mongodb.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://techstack-generator.vercel.app/js-icon.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="30px" src="https://techstack-generator.vercel.app/mysql-icon.svg" />](CiyaKhan)
 <br/>
 
 [<img align="left" alt="Cpp" width="26px" src="https://techstack-generator.vercel.app/java-icon.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://techstack-generator.vercel.app/python-icon.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://techstack-generator.vercel.app/django-icon.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="30px" src="https://techstack-generator.vercel.app/mysql-icon.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/mongodb.svg" />](CiyaKhan)
 <br/>
 <br/>
 
