@@ -51,7 +51,7 @@
 ### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px">  GitHub Stats
 
 ![CK's github stats](https://github-stats-alpha.vercel.app/api?username=liginthomasck&cc=000&tc=fff&ic=fff&bc=0D1117)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rameshchandrapola&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liginthomasck&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&langs_count=8&layout=compact&theme=black)
 
 <br/>
