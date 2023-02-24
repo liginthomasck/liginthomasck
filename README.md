@@ -30,15 +30,15 @@
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/tensorflow.svg" />](CiyaKhan)
 <br/>
 
-[<img align="left" alt="Cpp" width="26px" src="https://techstack-generator.vercel.app/cpp-icon.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/cpp.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/html.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://techstack-generator.vercel.app/js-icon.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="30px" src="https://techstack-generator.vercel.app/mysql-icon.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/js.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/mysql.svg" />](CiyaKhan)
 <br/>
 
-[<img align="left" alt="Cpp" width="26px" src="https://techstack-generator.vercel.app/java-icon.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://techstack-generator.vercel.app/python-icon.svg" />](CiyaKhan)
-[<img align="left" alt="Cpp" width="26px" src="https://techstack-generator.vercel.app/django-icon.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/java.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/python.svg" />](CiyaKhan)
+[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/django.svg" />](CiyaKhan)
 [<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/mongodb.svg" />](CiyaKhan)
 <br/>
 <br/>
