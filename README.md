@@ -52,7 +52,7 @@
 
 ![CK's github stats](https://github-readme-stats.vercel.app/api?username=liginthomasck&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liginthomasck&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&langs_count=8&layout=compact&theme=black)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&langs_count=8&layout=compact&theme=react)
 
 <br/>
 
