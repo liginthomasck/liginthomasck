@@ -55,19 +55,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liginthomasck&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 <br/>
 
-<!--START_SECTION:waka
-
-  <img align="left" src="http://img.shields.io/badge/Profile%20Views-14-blue" />
-  <br/>
-  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue" />
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=cars-databook&theme=github_dark)](https://github.com/liginthomasck/cars-databook)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liginthomasck&repo=liginthomasck&theme=github_dark)](https://github.com/liginthomasck/liginthomasck)
-![Metrics](https://metrics.lecoq.io/liginthomasck?)https://github.com/lowlighter/metrics
-
-<!--![Metrics](https://metrics.lecoq.io/liginthomasck?template=classic&repositories.forks=true&base.metadata=0&isocalendar=1&languages=1&introduction=1&stars=1&people=1&gists=1&followup=1&lines=1&activity=1&achievements=1&discussions=1&notable=1&repositories=1&tweets=1&stackoverflow=1&repositories=100&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&licenses.ratio=yes&licenses.legal=yes&isocalendar.duration=half-year&languages.limit=8&languages.sections=recently-used,most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=1000&languages.recent.days=365&introduction.title=true&languages.details=bytes-size,percentage&habits.from=1000&habits.days=30&habits.facts=yes&habits.charts=yes&habits.trim=yes&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=true&repositories.featured=liginthomasck%2FCrops-India-Book%2C%20liginthomasck%2FAccident-Rate-Book%2C%20liginthomasck%2FCars-databook%2C%20liginthomasck%2FLogin-Page-Email-Verification-PHP%2C%20liginthomasck%2Feaoll-ecomm-workflow&tweets.attachments=true&tweets.limit=4&tweets.user=.user.twitter&stackoverflow.user=15373890&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=3&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FCalcutta)-->
-
 <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liginthomasck/liginthomasck/output/github-contribution-grid-snake-dark.svg">
