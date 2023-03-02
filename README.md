@@ -55,7 +55,7 @@
 <br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liginthomasck&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 <br/>
-![Github Grid Snake](https://github.com/liginthomasck/liginthomasck/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/blob/output/snake.svg" alt="Snake animation" />
 <br/>
 
 <p align="center"> 
