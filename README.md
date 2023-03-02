@@ -63,12 +63,6 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/liginthomasck/count.svg" />
-  <br/>
-  <div style="font-size:16px;margin:0 auto;width:300px">
-      <img src="https://blockchain.info/Resources/buttons/donate_64.png" />
-  </div>
-  
-<h1><a href="https://www.blockchain.com/btc/payment_request?address=1ERx2f6no1fXnDttvG3BmJsC4oUn6xDc7c&message=CK-Bitcoin-Wallet&amount=1"><img align="" alt="bitcoin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" /> Donate 1BTC</a></h1>
 </p>
 
 <h3 align="center">Show some ❤ by <img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/star.gif" height=25px width=25px> some repositories! <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></h3>
