@@ -56,7 +56,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liginthomasck&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 <br/>
 
-![](https://github.com/boyfeiyu/boyfeiyu/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/liginthomasck/liginthomasck/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 
