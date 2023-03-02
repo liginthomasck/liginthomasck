@@ -56,11 +56,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liginthomasck&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liginthomasck/liginthomasck/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liginthomasck/liginthomasck/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/output/github-contribution-grid-snake.svg" />
-</picture>
+![](https://github.com/boyfeiyu/boyfeiyu/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 
