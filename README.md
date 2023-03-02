@@ -54,6 +54,7 @@
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liginthomasck&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 <br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liginthomasck&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
+<img src = "https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/codyfire.gif" width=20px >
 <br/>
 <img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/blob/output/snake.svg" alt="Snake animation" />
 <br/>
