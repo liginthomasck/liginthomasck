@@ -56,10 +56,10 @@
 <img src = "https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/codyfire.gif" width=300px />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liginthomasck&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 <br/>
-
+<!--
 <img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/blob/output/snake.svg" /> 
 <br/>
-
+-->
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/liginthomasck/count.svg" />
