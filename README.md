@@ -61,6 +61,11 @@
 <img src = "https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/codyfire.gif" width=300px />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liginthomasck&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 <br/>
+
+<!--   grid-snake -->
+![](https://github.com/liginthomasck/liginthomasck/blob/output/github-contribution-grid-snake.svg)
+<br/>
+
 <!--
 <img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/blob/output/snake.svg" /> 
 <br/>
