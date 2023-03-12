@@ -48,11 +48,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&theme=juicyfresh&no-frame=true&margin-w=5&margin-h=5&column=7&row=1&no-bg=true)](CiyaKhan)
 <br/>
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liginthomasck&theme=github-compact)](https://github.com/liginthomasck/github-readme-activity-graph)
-<br/>
-
 ### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px">  GitHub Stats
 
 ![CK's github stats](https://github-readme-stats.vercel.app/api?username=liginthomasck&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
@@ -60,6 +55,11 @@
 <br/>
 <img src = "https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/codyfire.gif" width=300px />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liginthomasck&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
+<br/>
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liginthomasck&theme=github-compact)](https://github.com/liginthomasck/github-readme-activity-graph)
 <br/>
 
 <!--   grid-snake -->
