@@ -18,6 +18,7 @@
 [<img align="left" alt="Ligin Thomas CK | Reddit" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/reddit.svg" />](https://www.reddit.com/user/Ciya_Khan)
 [<img align="left" alt="Ligin Thomas CK | Pinterest" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/glitch.svg" />](https://glitch.com/@liginthomasck)
 <!--[<img align="left" alt="Ligin Thomas CK | Slack" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/slack.svg" />](https://zanckinternationals.slack.com)-->
+
 [<img align="left" alt="Ligin Thomas CK | Kaggle" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/kaggle.svg" />](https://www.kaggle.com/ciyakhan)
 <br/>
 <br/>
