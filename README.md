@@ -58,7 +58,7 @@
 <br/>
 
 <!--   GitHub stats graph -->
-### <img src="assets/graph.gif" height="25px"> GitHub Activity Graph:
+### <img src="assets/graph.gif" height="30px"> GitHub Activity Graph:
 <!--[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liginthomasck&theme=github-compact)](https://github.com/liginthomasck/github-readme-activity-graph)
 <br/>-->
 
