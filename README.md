@@ -58,8 +58,8 @@
 
 <!--   GitHub stats graph -->
 ### <img src="assets/graph.gif" height="30px"> GitHub Activity Graph:
-<!--[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liginthomasck&theme=github-compact)](https://github.com/liginthomasck/github-readme-activity-graph)
-<br/>-->
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liginthomasck&theme=github-compact)](https://github.com/liginthomasck/github-readme-activity-graph)
+<br/>
 
 <!--   grid-snake -->
 ![](https://github.com/liginthomasck/liginthomasck/blob/output/github-contribution-grid-snake.svg)
