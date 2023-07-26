@@ -56,19 +56,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liginthomasck&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 <br/>
 
-<!--   GitHub stats graph -->
-### <img src="assets/graph.gif" height="30px"> GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liginthomasck&theme=github-compact)](https://github.com/liginthomasck/github-readme-activity-graph)
-<br/>
-
-<!--   grid-snake -->
-![](https://github.com/liginthomasck/liginthomasck/blob/output/github-contribution-grid-snake.svg)
-<br/>
-
-<!--
-<img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/blob/output/snake.svg" /> 
-<br/>
--->
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/liginthomasck/count.svg" />
