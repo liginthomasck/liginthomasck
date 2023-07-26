@@ -44,7 +44,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&theme=algolia&no-frame=true&margin-w=5&margin-h=5&column=7&row=1&no-bg=true)](CiyaKhan)
+[![trophy](https://github-profile-trophy.vercel.app/?username=liginthomasck&theme=juicyfresh&no-frame=true&margin-w=5&margin-h=5&column=7&row=1&no-bg=true)](CiyaKhan)
 <br/>
 
 ### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px">  GitHub Stats
